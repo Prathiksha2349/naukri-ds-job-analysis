@@ -105,5 +105,4 @@ python notebooks/phase3_analysis.py
 
 ---
 
-## 🎙️ Pitching This Project in an Interview
-> *"I built an analytics pipeline evaluating 13,691 real-world Data Science job listings scraped from Naukri.com. The primary engineering roadblock was that over 90% of salaries were hidden. I managed this transparently by routing salary-disclosed metrics into a dedicated testing path while treating market opacity itself as a distinct analytical finding. I used Python regex to normalize 50+ divergent experience strings, extracted primary hubs from composite location rows, and mapped multi-variable tool text into 14 explicit binary skill matrices. This data engine was subsequently queried via MySQL and translated into an interactive Power BI dashboard for business reporting."*
+*
